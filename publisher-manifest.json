@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "04a3de3fc9362a45b8cbcfc7",
+  "owner": "hhhgjpduk",
+  "repo": "page-a5b4cf3e45df66d0f837dfd6",
+  "title": "菜鸟云(RookieCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a5b4cf3e45df66d0f837dfd6",
+      "a": "菜鸟云(RookieCloud)",
+      "b": "2027官方最新地址导航",
+      "entity": "菜鸟云(RookieCloud)",
+      "brand": "菜鸟云(RookieCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fe82073198b4bae34bce6ea6e116ed5ae33a1bf2277ac1ffdae3a3e5a65cebc5",
+      "content": {
+        "primary_entity": "菜鸟云(RookieCloud)",
+        "keyword1": "菜鸟云(RookieCloud)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "订阅链接通用，客户端按系统挑。",
+          "AI_DESCRIPTION": "，从设备数量与每月流量出发选择套餐，基础版适合三台设备以内、旗舰版覆盖五台设备与流媒体游戏场景、团队版面向多设备与定制路由需求，按客户端文档导入订阅即可开始使用。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "先从流量、设备数与线路需求出发，再对应订阅周期。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按常用设备数量选择即可。",
+          "AI_FEATURE_TITLE_2": "流量与线路匹配",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB与1000GB三档流量，旗舰版含IPLC专线，适合游戏与流媒体。",
+          "AI_FEATURE_TITLE_3": "订阅周期与权益",
+          "AI_FEATURE_TEXT_3": "年付基础版¥150、旗舰版¥350、团队版¥850，团队版附专属客户经理与企业定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，年付分别¥150、¥350、¥850，可按流量和设备数快速对比。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选套餐、核对适配要求、再按客户端步骤配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依据设备数量与月流量需求，在基础版、旗舰版或团队版中确定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统、客户端及同时在线设备数是否与所选套餐匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，完成后即可连接节点使用。",
+          "AI_HERO_SUBTITLE": "菜鸟云，轻量海外加速",
+          "AI_HERO_INTRO": "菜鸟云(RookieCloud)是一款面向海外访问场景的加速服务，提供按设备数与流量分档的订阅方案，覆盖基础网页浏览、流媒体与IPLC专线游戏场景，客户端订阅配置流程简洁，适合个人到小团队的日常使用。",
+          "AI_VISUAL_TITLE": "菜鸟云轻量加速",
+          "AI_HIGHLIGHT_1": "基础版3台设备，月付¥15",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线与流媒体",
+          "AI_HIGHLIGHT_3": "团队版20台设备，年付¥850",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "根据常用设备与流量需求挑好版本，再按客户端文档完成订阅，便能开始使用菜鸟云。",
+          "AI_FAQ_TITLE": "常见事项",
+          "AI_FAQ_QUESTION_1": "菜鸟云(RookieCloud)套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看同时在线的设备数量，再看每月流量需求。单人轻度使用基础版即可，多设备追剧或游戏可选旗舰版，小团队共享则考虑团队版。",
+          "AI_FAQ_QUESTION_2": "购买后怎么导入订阅？",
+          "AI_FAQ_ANSWER_2": "在对应客户端中添加订阅链接并更新节点列表即可。不同客户端操作方式略有差异，可参考该客户端的使用文档完成配置。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数有限制吗？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。超出数量时可能需要升级套餐或断开部分设备。",
+          "AI_FAQ_QUESTION_4": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元、旗舰版年付350元、团队版年付850元，均低于按月支付十二个月的总价，长期使用年付更经济。",
+          "AI_FAQ_QUESTION_5": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后将暂停或限速，可在下个计费周期恢复，或升级到更高流量档位。具体处理方式以账户内的套餐说明为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "blqxk.cn",
+    "host": "blqxk.cn"
+  },
+  "file_hashes": {
+    "index.html": "f3c736b7e0f402dafe665b44b1276584673b6415803ef2917efd3df0eb935557",
+    "sitemap.xml": "b2162074b42013a90661b61e5857446c07e059c654317da3bab9b42df309d388",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cfdafaec4c7dfb3cb6ad5c51a0b1699a46d97006ef26aeb593e23f2d2351aeaa",
+    "robots.txt": "44e50f77b7415b75cfdd01f2dcdffef50398475de1b9a79c4e34d72269820c99",
+    "1c420091d754e6ed64a7305885ec44fe.txt": "86b1216f4cbb05937ef76e7ae22f38bfb2d8022245a2f9883afe271cc7f179b4"
+  },
+  "revision": "dd96bfe281a5f31733588d9a634ef4a5cf5bdd7b5cef311924ba818192cc90ac"
+}

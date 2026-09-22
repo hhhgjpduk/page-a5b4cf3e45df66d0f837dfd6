@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blqxk.cn/sitemap.xml
